@@ -1,24 +1,18 @@
-### Hi there 👋
+As an active teacher at a public secondary school, I've dedicated myself to exploring and enhancing the pedagogy of economics teaching.
 
-I'm a passionate educator deeply immersed in the world of economics. As an active teacher at a public secondary school, I've dedicated myself to exploring and enhancing the pedagogy of economics teaching.
+My interests lie at the intersection of economics and technology, particularly in the application of numerical methods to economic models. I'm constantly seeking new ways to integrate coding into my teaching, making economic theories more accessible and engaging for my students.
 
-📊 My interests lie at the intersection of economics and technology, particularly in the application of numerical methods to economic models. I'm constantly seeking new ways to integrate coding into my teaching, making economic theories more accessible and engaging for my students.
+On this platform, you'll find my projects and collaborations that reflect my dedication to education, economics, and technology.
 
-💡 I'm fervently engaged in discussing current economic issues, and strive to present these complex topics in a clear and relatable manner.
 
-🌐 On this platform, you'll find my projects and collaborations that reflect my dedication to education, economics, and technology.
+### economics teaching
 
-<!--
-**econmediadb/econmediadb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+text here 1
 
-Here are some ideas to get you started:
+### quantitative economics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+text here 2
+
+### coding tutorials
+
+text here 3
