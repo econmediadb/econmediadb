@@ -5,13 +5,12 @@ My interests lie at the intersection of economics and technology, particularly i
 On this platform, you'll find my projects and collaborations that reflect my dedication to education, economics, and technology.
 
 
-### 1. economics teaching
+### economics teaching
 
-text here 1
+[2iec economics](markdown/mindmap-2iec-economics.md)
 
-### 2. quantitative economics
+<!-- ### 2. quantitative economics -->
 
-text here 2
 
 ### coding tutorials
 
