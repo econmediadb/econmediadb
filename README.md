@@ -7,9 +7,7 @@ On this platform, you'll find my projects and collaborations that reflect my ded
 
 ### economics teaching
 
-[2iec economics](markdown/mindmap-2iec-economics.md)
-
-<!-- ### 2. quantitative economics -->
+[2iec economics](markdown/mindmap-2iec-economics.md), [3iec economics](markdown/mindmap-3iec-economics.md), [2iec business](markdown/mindmap-2iec-business.md)
 
 
 ### coding tutorials
