@@ -5,14 +5,14 @@ My interests lie at the intersection of economics and technology, particularly i
 On this platform, you'll find my projects and collaborations that reflect my dedication to education, economics, and technology.
 
 
-### economics teaching
+### 1. economics teaching
 
 text here 1
 
-### quantitative economics
+### 2. quantitative economics
 
 text here 2
 
 ### coding tutorials
 
-text here 3
+[main](markdown/coding-tutorial.adoc)
