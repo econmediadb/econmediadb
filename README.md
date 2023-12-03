@@ -5,15 +5,15 @@ My interests lie at the intersection of economics and technology, particularly i
 On this platform, you'll find my projects and collaborations that reflect my dedication to education, economics, and technology.
 
 
-### economics teaching
+### 🍀 economics teaching
 
 [2iec economics](markdown/mindmap-2iec-economics.md), [3iec economics](markdown/mindmap-3iec-economics.md), [2iec business](markdown/mindmap-2iec-business.md)
 
 
-### coding tutorials
+### 🍁 coding tutorials
 
 [tutorials](markdown/coding-tutorial.adoc)
 
-### computational methods
+### 🌿 computational methods
 
-[slice sampler](jupyterlab/slice-sampler.ipynb)
+[slice sampler](jupyterlab/slice-sampler.ipynb), [monte carlo integration](jupyterlab/monte-carlo-integration.ipynb), [simulated annealing](jupyterlab/simulated-annealing.ipynb), [metropolis-hastings algorithm](jupyterlab/metropolis-hastings-algorithm.ipynb)
