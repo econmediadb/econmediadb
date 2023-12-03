@@ -16,4 +16,4 @@ On this platform, you'll find my projects and collaborations that reflect my ded
 
 ### computational methods
 
-
+[slice sampler](jupyterlab/slice-sampler.ipynb)
