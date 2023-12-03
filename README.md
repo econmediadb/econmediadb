@@ -12,4 +12,8 @@ On this platform, you'll find my projects and collaborations that reflect my ded
 
 ### coding tutorials
 
-[main](markdown/coding-tutorial.adoc)
+[tutorials](markdown/coding-tutorial.adoc)
+
+### computational methods
+
+
