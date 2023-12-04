@@ -22,3 +22,6 @@ On this platform, you'll find my projects and collaborations that reflect my ded
 [dynamic programming](jupyterlab/dynamic-programming.ipynb), [finite state markov chain approximation of AR(1) process](jupyterlab/finite-state-markov-chain-approximation-of-ar1-process.ipynb)
 
 
+### 🍄 education
+
+[Is the *Productivity Puzzle* linked to Maths Teaching in the *Secondary Education System*?](markdown/productivity-puzzle.md)
