@@ -7,15 +7,18 @@ On this platform, you'll find my projects and collaborations that reflect my ded
 
 ### 🍀 economics teaching
 
-[2iec economics](markdown/mindmap-2iec-economics.md), [3iec economics](markdown/mindmap-3iec-economics.md), [2iec business](markdown/mindmap-2iec-business.md)
+[2iec economics](markdown/mindmap-2iec-economics.md), [3iec economics](markdown/mindmap-3iec-economics.md), [2iec business](markdown/mindmap-2iec-business.md) <br>
+[economics course design](https://gitlab.com/econmediadb/economics-course)
 
 
 ### 🍁 coding tutorials
 
 [tutorials](markdown/coding-tutorial.adoc)
 
+
 ### 🌿 computational methods
 
-[slice sampler](jupyterlab/slice-sampler.ipynb), [monte carlo integration](jupyterlab/monte-carlo-integration.ipynb), [simulated annealing](jupyterlab/simulated-annealing.ipynb), [metropolis-hastings algorithm](jupyterlab/metropolis-hastings-algorithm.ipynb), [dynamic programming](jupyterlab/dynamic-programming.ipynb), [finite state markov chain approximation of AR(1) process](jupyterlab/finite-state-markov-chain-approximation-of-ar1-process.ipynb)
+[slice sampler](jupyterlab/slice-sampler.ipynb), [monte carlo integration](jupyterlab/monte-carlo-integration.ipynb), [simulated annealing](jupyterlab/simulated-annealing.ipynb), [metropolis-hastings algorithm](jupyterlab/metropolis-hastings-algorithm.ipynb) <br>
+[dynamic programming](jupyterlab/dynamic-programming.ipynb), [finite state markov chain approximation of AR(1) process](jupyterlab/finite-state-markov-chain-approximation-of-ar1-process.ipynb)
 
 
