@@ -62,3 +62,27 @@ are a valuable (but free) source to find inspiration for projects related to you
 
 - [QuantEcon](https://julia.quantecon.org/intro.html)
 - [Computational Economics for PhDs](https://floswald.github.io/NumericalMethods/)
+
+## Large-language model
+
+### llama
+
+- [Ollama — Get up and running with Llama 2 and other large language models locally.](https://github.com/jmorganca/ollama)
+- [OllamaHub Discover, download, and explore Ollama Modelfiles](https://ollamahub.com/)
+- [OllamaHub — Explore and Download Custom Ollama Modelfiles.](https://ollamahub.com/)
+- [ollama library](https://ollama.ai/library)
+- [Ollama Manual Install](https://github.com/jmorganca/ollama/blob/main/docs/linux.md)
+- [Ollama Docker Image](https://hub.docker.com/r/ollama/ollama)
+- [ollama-webui](https://github.com/ollama-webui/ollama-webui)
+- [LlamaGPT](https://github.com/getumbrel/llama-gpt)
+- [llama-gpt — A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!](https://github.com/getumbrel/llama-gpt#benchmarks)
+- [Uncensored AI on Linux (podcast)](https://linuxunplugged.com/540)
+
+### coding assistants
+
+- [Continue.dev — An open-source autopilot in your IDE](https://continue.dev/)
+- [Refact is an open-source AI coding assistant with blazing-fast code completion, powerful code improvement tools, and chat.](https://refact.ai/)
+
+## Deep learning models
+
+- [Marker converts PDF, EPUB, and MOBI to markdown.](https://github.com/VikParuchuri/marker)
