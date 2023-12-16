@@ -86,3 +86,9 @@ are a valuable (but free) source to find inspiration for projects related to you
 ## Deep learning models
 
 - [Marker converts PDF, EPUB, and MOBI to markdown.](https://github.com/VikParuchuri/marker)
+
+
+### speech note
+
+- [Speech Note](https://flathub.org/apps/net.mkiol.SpeechNote)
+- [Speech Note (Github)](https://github.com/mkiol/dsnote)
