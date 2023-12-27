@@ -79,7 +79,7 @@ are a valuable (but free) source to find inspiration for projects related to you
 - [llama-gpt — A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!](https://github.com/getumbrel/llama-gpt#benchmarks)
 - [Uncensored AI on Linux (podcast)](https://linuxunplugged.com/540)
 
-### quick start
+### quick start for ollama
 
 To start the chat, type: <br>
 ```bash
@@ -100,6 +100,9 @@ If you want to relaunch the server, type:
 ```bash
 sudo systemctl start ollama
 ```
+
+All the model files are stored in `/usr/share/ollama/.ollama/models/` . You should make a regular backup of this folder.
+
 
 ### coding assistants
 
