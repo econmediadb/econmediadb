@@ -91,6 +91,16 @@ Once youare in the chat, you can leave this mode by typing:
 /bye
 ```
 
+Remember that ollama is running in the backround as a server. If you want to disable it, type:
+```bash
+sudo systemctl stop ollama
+```
+
+If you want to relaunch the server, type: 
+```bash
+sudo systemctl start ollama
+```
+
 ### coding assistants
 
 - [Continue.dev — An open-source autopilot in your IDE](https://continue.dev/)
