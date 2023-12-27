@@ -79,6 +79,18 @@ are a valuable (but free) source to find inspiration for projects related to you
 - [llama-gpt — A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!](https://github.com/getumbrel/llama-gpt#benchmarks)
 - [Uncensored AI on Linux (podcast)](https://linuxunplugged.com/540)
 
+### quick start
+
+To start the chat, type: <br>
+```bash
+ollama run llama2
+```
+
+Once youare in the chat, you can leave this mode by typing:
+```bash
+/bye
+```
+
 ### coding assistants
 
 - [Continue.dev — An open-source autopilot in your IDE](https://continue.dev/)

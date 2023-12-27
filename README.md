@@ -13,7 +13,7 @@ On this platform, you'll find my projects and collaborations that reflect my ded
 
 ### 🍁 coding tutorials
 
-[general tutorials](markdown/coding-tutorial.adoc), [svg tutorial](markdown/svg-tutorial.md)
+[general tutorials](markdown/coding-tutorial.md), [svg tutorial](markdown/svg-tutorial.md)
 
 
 ### 🌿 computational methods
