@@ -25,3 +25,8 @@ On this platform, you'll find my projects and collaborations that reflect my ded
 ### 🍄 education
 
 [Is the *Productivity Puzzle* linked to Maths Teaching in the *Secondary Education System*?](markdown/productivity-puzzle.md)
+
+
+### sources
+
+[general sources](markdown/bibliography.md)
