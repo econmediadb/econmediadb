@@ -103,6 +103,10 @@ sudo systemctl start ollama
 
 All the model files are stored in `/usr/share/ollama/.ollama/models/` . You should make a regular backup of this folder.
 
+Use `ollama list` to list all the models installed on your system.
+
+
+
 
 ### coding assistants
 
