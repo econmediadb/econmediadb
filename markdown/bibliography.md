@@ -8,6 +8,8 @@
 - [Saunders, Anthony, Linda Allen, and Anthony Saunders. Credit Risk Measurement in and out of the Financial Crisis : New Approaches to Value at Risk and Other Paradigms /. 3rd ed. Hoboken, N.J: Wiley, 2010. Print.
 ](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922866842907251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr)
 - [Aven, T. (Terje). Foundations of Risk Analysis. 2nd ed. Hoboken, N.J: Wiley, 2012. Print.](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922887959807251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr)
+- [Global Volatility (V-LAB NYU Stern)](https://vlab.stern.nyu.edu/)
+
 
 ## Industrial Organisation
 
