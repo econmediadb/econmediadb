@@ -7,7 +7,10 @@
 3. Nelson-Aalen Estimator
 4. Cox Proportional Hazard Models
 
+## Basic concept
 
+The probability that a subject selected at random will have a survival time less than or equal some stated value, $t$. This is denoted as $F(t) = Pr(T \leq t)$.
+The survival function is the probability of observing a survival time greater than some stated value $t$, denoted $S(t) = Pr(T > t)$.
 
 ## 1. Event-history data
 
@@ -79,3 +82,4 @@ see [Julia code](../jupyterlab/survival-analysis.ipynb#Cox-proportional-hazards-
 - [Nelson–Aalen Estimator](http://www.medicine.mcgill.ca/epidemiology/hanley/c609/Material/NelsonAalenEstimator.pdf)
 - [Nikulin, Mikhail., and Hong-Dar Isaac. Wu. The Cox Model and Its Applications. Berlin, Heidelberg: Springer Berlin Heidelberg, 2016. Web.](https://www.a-z.lu/discovery/fulldisplay?docid=alma9920996849707251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr)
 - [Getting started with the Julia library Survival.jl](https://juliastats.org/Survival.jl/latest/getting_started/)
+- Hosmer Jr, David W., Stanley Lemeshow, and Susanne May. [Applied survival analysis: regression modeling of time-to-event data.](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922850754307251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) John Wiley & Sons, 2011.
