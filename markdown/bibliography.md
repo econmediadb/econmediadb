@@ -25,6 +25,13 @@
 - [electronic frontier foundation](https://www.eff.org/)
 - [linux foundation](https://www.linuxfoundation.org/)
 
+### Plots in Julia and Python
+
+- [Create publication-quality plots in Julia](https://nextjournal.com/leandromartinez98/tips-to-create-beautiful-publication-quality-plots-in-julia)
+- [Gaston : an interface to gnuplot, a mature, powerful, and actively developed plotting package ](https://mbaz.github.io/Gaston.jl/stable/)
+- [Plotly : a graphing library that makes interactive, publication-quality graphs online.](https://plotly.com/julia/)
+- [A Beginner's Guide to LaTeX](https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf)
+
 ## Pedagogy
 
 - [Winter, Felix. Lerndialog statt Noten  : neue Formen der Leistungsbeurteilung. Weinheim: Beltz, 2015. Print.](https://www.beltz.de/fachmedien/paedagogik/produkte/details/37489-lerndialog-statt-noten.html)
