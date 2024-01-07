@@ -21,6 +21,10 @@ On this platform, you'll find my projects and collaborations that reflect my ded
 [slice sampler](jupyterlab/slice-sampler.ipynb), [monte carlo integration](jupyterlab/monte-carlo-integration.ipynb), [simulated annealing](jupyterlab/simulated-annealing.ipynb), [metropolis-hastings algorithm](jupyterlab/metropolis-hastings-algorithm.ipynb) <br>
 [dynamic programming](jupyterlab/dynamic-programming.ipynb), [dynamic programming with search theory](jupyterlab/deterministic-rbc-with-search.ipynb), [finite state markov chain approximation of AR(1) process](jupyterlab/finite-state-markov-chain-approximation-of-ar1-process.ipynb)
 
+### open-source foundations
+
+[electronic frontier foundation](https://www.eff.org/)
+[linux foundation](https://www.linuxfoundation.org/)
 
 ### 🍄 education
 
