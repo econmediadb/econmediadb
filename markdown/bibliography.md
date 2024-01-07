@@ -22,6 +22,8 @@
 
 - [Enterprise resource planning Software](https://github.com/odoo/odoo)
 - [The MIT Press releases a comprehensive report on open-source publishing software](https://news.mit.edu/2019/mit-press-report-open-source-publishing-software-0808)
+- [electronic frontier foundation](https://www.eff.org/)
+- [linux foundation](https://www.linuxfoundation.org/)
 
 ## Pedagogy
 
