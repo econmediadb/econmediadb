@@ -32,6 +32,17 @@
 - [Plotly : a graphing library that makes interactive, publication-quality graphs online.](https://plotly.com/julia/)
 - [A Beginner's Guide to LaTeX](https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf)
 
+### Learning Rust
+
+-[The Rust Programming Language](https://www.a-z.lu/discovery/fulldisplay?docid=alma9923251984807251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) by Steve Klabnik and Carol Nichols
+-[Programming Rust](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922856104707251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) by Jim Blandy and Jason Orendorff
+- Zero To Production In Rust by Luca Palmieri
+-[Rust in Action](https://www.a-z.lu/discovery/fulldisplay?docid=alma9923252737607251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) by Tim McNamara
+-[Rust for Rustaceans](https://www.a-z.lu/discovery/fulldisplay?docid=alma9923252627107251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) by Jon Gjengset
+- [All algorithms implemented in Rust - for education](https://github.com/TheAlgorithms/Rust)
+
+
+
 ## Pedagogy
 
 - [Winter, Felix. Lerndialog statt Noten  : neue Formen der Leistungsbeurteilung. Weinheim: Beltz, 2015. Print.](https://www.beltz.de/fachmedien/paedagogik/produkte/details/37489-lerndialog-statt-noten.html)
