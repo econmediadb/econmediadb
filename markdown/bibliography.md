@@ -34,13 +34,25 @@
 
 ### Learning Rust
 
--[The Rust Programming Language](https://www.a-z.lu/discovery/fulldisplay?docid=alma9923251984807251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) by Steve Klabnik and Carol Nichols
--[Programming Rust](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922856104707251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) by Jim Blandy and Jason Orendorff
+- [The Rust Programming Language](https://www.a-z.lu/discovery/fulldisplay?docid=alma9923251984807251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) by Steve Klabnik and Carol Nichols
+- [Programming Rust](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922856104707251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) by Jim Blandy and Jason Orendorff
 - Zero To Production In Rust by Luca Palmieri
--[Rust in Action](https://www.a-z.lu/discovery/fulldisplay?docid=alma9923252737607251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) by Tim McNamara
--[Rust for Rustaceans](https://www.a-z.lu/discovery/fulldisplay?docid=alma9923252627107251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) by Jon Gjengset
+- [Rust in Action](https://www.a-z.lu/discovery/fulldisplay?docid=alma9923252737607251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) by Tim McNamara
+- [Rust for Rustaceans](https://www.a-z.lu/discovery/fulldisplay?docid=alma9923252627107251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) by Jon Gjengset
 - [All algorithms implemented in Rust - for education](https://github.com/TheAlgorithms/Rust)
 
+### Learning JavaScript
+
+- [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md) – Kyle Simpson
+- [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922871837507251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) – David Herman
+- [A Smarter Way to Learn JavaScript]() – Mark Myers
+- [Eloquent JavaScript](https://eloquentjavascript.net/) – Marijn Haverbeke
+- [JavaScript: The Good Parts](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922851322207251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) – Douglas Crockford
+- [JavaScript: The Definitive Guide](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922861738707251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) – David Flanagan
+- [JavaScript and jQuery: Interactive Front-End Web Development:]() 
+- [Head First Javascript Programming: A Brain-Friendly Guide]() 
+- [Professional JavaScript for Web Developers]() 
+- [Secrets of the JavaScript Ninja]() 
 
 
 ## Pedagogy
