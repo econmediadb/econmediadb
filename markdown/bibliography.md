@@ -45,14 +45,14 @@
 
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md) – Kyle Simpson
 - [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922871837507251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) – David Herman
-- [A Smarter Way to Learn JavaScript]() – Mark Myers
+- [A Smarter Way to Learn JavaScript](https://www.asmarterwaytolearn.com/js/) – Mark Myers
 - [Eloquent JavaScript](https://eloquentjavascript.net/) – Marijn Haverbeke
 - [JavaScript: The Good Parts](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922851322207251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) – Douglas Crockford
 - [JavaScript: The Definitive Guide](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922861738707251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) – David Flanagan
-- [JavaScript and jQuery: Interactive Front-End Web Development:]() 
-- [Head First Javascript Programming: A Brain-Friendly Guide]() 
-- [Professional JavaScript for Web Developers]() 
-- [Secrets of the JavaScript Ninja]() 
+- [JavaScript and jQuery: Interactive Front-End Web Development:](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922852250207251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) 
+- [Head First Javascript Programming: A Brain-Friendly Guide](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922881852507251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) 
+- [Professional JavaScript for Web Developers](https://www.a-z.lu/discovery/fulldisplay?docid=alma9923252428907251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) 
+- [Secrets of the JavaScript Ninja](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922865572407251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) 
 
 
 ## Pedagogy
