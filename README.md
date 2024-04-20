@@ -27,6 +27,10 @@ On this platform, you'll find my projects and collaborations that reflect my ded
 
 [Is the *Productivity Puzzle* linked to Maths Teaching in the *Secondary Education System*?](markdown/productivity-puzzle.md)
 
+### ethics
+
+[ethical consumer](https://www.ethicalconsumer.org/)
+
 
 ### sources
 
