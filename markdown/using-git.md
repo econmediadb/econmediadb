@@ -99,7 +99,20 @@ git pull origin <branch_name>           # Pull changes from the remote repositor
 git push origin <branch_name>           # Push changes to the remote repository
 ```
 
+## Working with remote repositories
 
+Most of the current projects, whether software related or other, collaboration often extends beyond local teams and officies. This necessitates the use of remote repositories to facilitate seamless cooperation. <br>
+GIT provides robust features for working with remote repositories, enabling developers to share code, synchronise changes, and contribute to shared projects effectively. In the following text, we  will explore the essential commands and workflows for interacting with remote repositories.
+
+### 1. Adding remote repositories
+
+Before you can collaborate with others on a shared project, you need to add a remote repository to your local environment. Remote repositories typically reside on hosting platforms like GitHub, GitLab or Bitbucket. To add a remote repository, you can use the `git remote add` command:
+
+```
+git remote add origin <remote_URL>
+```
+
+Here `<remote_URL>` is the URL of the remote repository. By convention, the remote repository added as origin serves as the default upstream repository for your local repository.
 
 
 ## References
