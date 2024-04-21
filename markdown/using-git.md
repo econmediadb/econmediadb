@@ -114,6 +114,32 @@ git remote add origin <remote_URL>
 
 Here `<remote_URL>` is the URL of the remote repository. By convention, the remote repository added as origin serves as the default upstream repository for your local repository.
 
+### 2. Pushing changes to remote repositories
+
+Once you have made changes to your local repository and commited them, you may want to share those changes with others by pushing them to the remote repository. The `git push` command accomplishes this task:
+
+```
+git push origin <branch_name>
+```
+
+Replace `<branch_name>` with the name of the branch you want to push. This command uploads your local commits to the corresponding branch on the remote repository, making them available for others to see and incorporate into their own work.
+
+### 3. Pulling changes from remote repositories
+
+Conversely, when changes are made to the remote repository by other collaborators, you will want to fetch and integrate those changes into your local repository. The `git pull` command achieves this by fetching changes from the remote repository and merging them into your current branch:
+
+```
+git pull origin <branch_name>
+```
+
+Executing this command fetches the latest changes from the remote repository's `<branch_name>` branch and automatically merges them into your local branch.
+
+### 4. Handling merge conflicts
+
+In collaborative environments, it is common for multiple developers (or authors if the project is not a software) to modify the same files concurrently, leading to merge conflicts when attempting to integrate changes. GIT provides tools to resolve these conflicts gracefully. When a merge conflict occurs, GIT marks the conflicting sections in the affected files. You can then manually resolve the conflicts by editing the files to retain the desired changes. After resolving conflicts, you can commit the changes to finalise the merge operation.
+
+
+
 
 ## References
 
