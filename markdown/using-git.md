@@ -1,5 +1,8 @@
 # Using git
 
+
+![GIT](https://git-scm.com/images/branching-illustration@2x.png)
+
 ## Installation and setup
 
 To install GIT in:
@@ -144,3 +147,4 @@ In collaborative environments, it is common for multiple developers (or authors 
 ## References
 
 - Open Source for you. Volume: 12, Issue: 06, 1 April 2024
+- Official GIT documentation : https://git-scm.com/doc
