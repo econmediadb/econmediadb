@@ -34,6 +34,8 @@
 - [Gaston : an interface to gnuplot, a mature, powerful, and actively developed plotting package ](https://mbaz.github.io/Gaston.jl/stable/)
 - [Plotly : a graphing library that makes interactive, publication-quality graphs online.](https://plotly.com/julia/)
 - [A Beginner's Guide to LaTeX](https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf)
+- [70 concepts mathématiques expliqués avec Python by Guillaume Saupin](https://www.dunod.com/sciences-techniques/70-concepts-mathematiques-expliques-avec-python)
+
 
 ### Learning Rust
 
