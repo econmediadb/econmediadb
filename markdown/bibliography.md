@@ -28,13 +28,14 @@
 - [electronic frontier foundation](https://www.eff.org/)
 - [linux foundation](https://www.linuxfoundation.org/)
 
-### Plots in Julia and Python
+### Plots and more in Julia and Python
 
 - [Create publication-quality plots in Julia](https://nextjournal.com/leandromartinez98/tips-to-create-beautiful-publication-quality-plots-in-julia)
 - [Gaston : an interface to gnuplot, a mature, powerful, and actively developed plotting package ](https://mbaz.github.io/Gaston.jl/stable/)
 - [Plotly : a graphing library that makes interactive, publication-quality graphs online.](https://plotly.com/julia/)
 - [A Beginner's Guide to LaTeX](https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf)
 - [70 concepts mathématiques expliqués avec Python by Guillaume Saupin](https://www.dunod.com/sciences-techniques/70-concepts-mathematiques-expliques-avec-python)
+- [Numerical Analysis with Python](https://yaningliucudenver.github.io/Numerical-Analysis-I/bookintro.html) by Yaning Liu, Giray Okten 
 
 
 ### Learning Rust
