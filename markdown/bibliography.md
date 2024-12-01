@@ -84,8 +84,9 @@
 - [McKinney, Wes. Python for Data Analysis :  : Data Wrangling with Pandas, NumPy, and Jupyter /. Third edition. Sebastopol, CA: O’Reilly Media, Inc., 2022. Print.](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922861435207251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr)
 - [Downey, Allen. Think Bayes /. Sebastopol, CA: O’Reilly, 2013. Print.](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922872888207251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr)
 - [Grus, Joel. Data Science from Scratch :  : First Principles with Python /. Second edition. Sebastopol, CA: O’Reilly Media, 2019. Print.](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922853827607251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr)
-- [Gelman, Andrew et al. Bayesian Data Analysis /. Third edition. Boca Raton: CRC Press, 2014. Print.](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922872964507251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr)
+- [Gelman, Andrew et al. Bayesian Data Analysis /. Third edition. Boca Raton: CRC Press, 2014. Print.](https://www.a-z.lu/discovery/fulldisplay?docid=alma9922872964507251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr) with [additional material](http://www.stat.columbia.edu/~gelman/book/)
 - [Congdon, Peter. Bayesian models for categorical data. John Wiley & Sons, 2005.](https://www.a-z.lu/discovery/fulldisplay?docid=alma990009484960107251&context=L&vid=352LUX_BNL:BIBNET_UNION&search_scope=DN_and_CI_UCV&tab=DiscoveryNetwork_UCV&lang=fr)
+- [Congdon, Peter. Applied bayesian modelling. John Wiley & Sons, 2014.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118895047)
 
 ## Digital libraries
 
