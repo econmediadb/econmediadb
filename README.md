@@ -29,7 +29,8 @@ On this platform, you'll find my projects and collaborations that reflect my ded
 
 ### ethics
 
-[ethical consumer](https://www.ethicalconsumer.org/)
+[ethical consumer](https://www.ethicalconsumer.org/), [low tech magazine](https://solar.lowtechmagazine.com/)
+
 
 
 ### sources
