@@ -1,0 +1,77 @@
+{"static_model": {"model_local_variables": [], "external_functions_temporary_terms_": [], "temporary_terms_": [{"temporary_term": "T49", "value": "i_1/exp(lk_1)-delta"}
+, {"temporary_term": "T64", "value": "phi*(i_1/exp(lk_1)+1-delta-T49*0.5)"}
+, {"temporary_term": "T115", "value": "i_2/exp(lk_2)-delta"}
+, {"temporary_term": "T126", "value": "phi*(1-delta+i_2/exp(lk_2)-0.5*T115)"}
+, {"temporary_term": "T146", "value": "exp(lk_1)*phi/2"}
+, {"temporary_term": "T148", "value": "T146*T49^2"}
+, {"temporary_term": "T156", "value": "exp(lk_2)*phi/2"}
+, {"temporary_term": "T158", "value": "T156*T115^2"}
+], 
+"residuals":[
+{"residual": {"lhs": "y_1", "rhs": "A*exp(alpha*lk_1+(1-alpha)*ll_1)"}}
+, {"residual": {"lhs": "t_1*exp(lc_1)^((-1)/gamma_1)", "rhs": "lambda"}}
+, {"residual": {"lhs": "t_1*b_1*exp(ll_1)^(1/eta_1)", "rhs": "y_1*(1-alpha)*lambda*exp(la_1)/exp(ll_1)"}}
+, {"residual": {"lhs": "lambda*(1+phi*(i_1/exp(lk_1)-delta))", "rhs": "lambda*beta*(1+y_1*alpha*exp(la_1)/exp(lk_1)+(i_1/exp(lk_1)-delta)*phi*(i_1/exp(lk_1)+1-delta-(i_1/exp(lk_1)-delta)*0.5))"}}
+, {"residual": {"lhs": "exp(lk_1)", "rhs": "i_1+exp(lk_1)*(1-delta)"}}
+, {"residual": {"lhs": "la_1", "rhs": "la_1*rho+sigma*(e+e_1)"}}
+, {"residual": {"lhs": "y_2", "rhs": "A*exp(alpha*lk_2+(1-alpha)*ll_2)"}}
+, {"residual": {"lhs": "t_2*exp(lc_2)^((-1)/gamma_2)", "rhs": "lambda"}}
+, {"residual": {"lhs": "t_2*b_2*exp(ll_2)^(1/eta_2)", "rhs": "y_2*(1-alpha)*lambda*exp(la_2)/exp(ll_2)"}}
+, {"residual": {"lhs": "lambda*(1+phi*(i_2/exp(lk_2)-delta))", "rhs": "lambda*beta*(1+y_2*alpha*exp(la_2)/exp(lk_2)+(i_2/exp(lk_2)-delta)*phi*(1-delta+i_2/exp(lk_2)-0.5*(i_2/exp(lk_2)-delta)))"}}
+, {"residual": {"lhs": "exp(lk_2)", "rhs": "i_2+(1-delta)*exp(lk_2)"}}
+, {"residual": {"lhs": "la_2", "rhs": "rho*la_2+sigma*(e+e_2)"}}
+, {"residual": {"lhs": "tn_1", "rhs": "exp(lc_1)+i_1-exp(lk_1)*delta-y_1+exp(lk_1)*phi/2*(i_1/exp(lk_1)-delta)^2"}}
+, {"residual": {"lhs": "0", "rhs": "i_2+exp(lc_2)+tn_1-delta*exp(lk_2)-y_2+exp(lk_2)*phi/2*(i_2/exp(lk_2)-delta)^2"}}
+, {"residual": {"lhs": "tn_2", "rhs": "0"}}
+
+]
+, "external_functions_temporary_terms_jacobian": [], "temporary_terms_jacobian": [{"temporary_term": "T184", "value": "(-(i_1*exp(lk_1)))/(exp(lk_1)*exp(lk_1))"}
+, {"temporary_term": "T207", "value": "1/exp(lk_1)"}
+, {"temporary_term": "T252", "value": "(-(i_2*exp(lk_2)))/(exp(lk_2)*exp(lk_2))"}
+, {"temporary_term": "T275", "value": "1/exp(lk_2)"}
+], "jacobian": {  "nrows": 15, "ncols": 15, "entries": [{"eq": 1, "col": 2, "var": "ll_1", "val": "(-(A*(1-alpha)*exp(alpha*lk_1+(1-alpha)*ll_1)))"}
+, {"eq": 1, "col": 3, "var": "lk_1", "val": "(-(A*alpha*exp(alpha*lk_1+(1-alpha)*ll_1)))"}
+, {"eq": 1, "col": 6, "var": "y_1", "val": "1"}
+, {"eq": 2, "col": 1, "var": "lc_1", "val": "t_1*exp(lc_1)*get_power_deriv(exp(lc_1),(-1)/gamma_1,1)"}
+, {"eq": 2, "col": 15, "var": "lambda", "val": "(-1)"}
+, {"eq": 3, "col": 2, "var": "ll_1", "val": "t_1*b_1*exp(ll_1)*get_power_deriv(exp(ll_1),1/eta_1,1)-(-(exp(ll_1)*y_1*(1-alpha)*lambda*exp(la_1)))/(exp(ll_1)*exp(ll_1))"}
+, {"eq": 3, "col": 5, "var": "la_1", "val": "(-(y_1*(1-alpha)*lambda*exp(la_1)/exp(ll_1)))"}
+, {"eq": 3, "col": 6, "var": "y_1", "val": "(-((1-alpha)*lambda*exp(la_1)/exp(ll_1)))"}
+, {"eq": 3, "col": 15, "var": "lambda", "val": "(-(y_1*(1-alpha)*exp(la_1)/exp(ll_1)))"}
+, {"eq": 4, "col": 3, "var": "lk_1", "val": "lambda*phi*T184-lambda*beta*((-(exp(lk_1)*y_1*alpha*exp(la_1)))/(exp(lk_1)*exp(lk_1))+T64*T184+T49*phi*(T184-0.5*T184))"}
+, {"eq": 4, "col": 4, "var": "i_1", "val": "lambda*phi*T207-lambda*beta*(T64*T207+T49*phi*(T207-0.5*T207))"}
+, {"eq": 4, "col": 5, "var": "la_1", "val": "(-(lambda*beta*y_1*alpha*exp(la_1)/exp(lk_1)))"}
+, {"eq": 4, "col": 6, "var": "y_1", "val": "(-(lambda*beta*alpha*exp(la_1)/exp(lk_1)))"}
+, {"eq": 4, "col": 15, "var": "lambda", "val": "1+phi*T49-beta*(1+y_1*alpha*exp(la_1)/exp(lk_1)+T49*T64)"}
+, {"eq": 5, "col": 3, "var": "lk_1", "val": "exp(lk_1)-exp(lk_1)*(1-delta)"}
+, {"eq": 5, "col": 4, "var": "i_1", "val": "(-1)"}
+, {"eq": 6, "col": 5, "var": "la_1", "val": "1-rho"}
+, {"eq": 7, "col": 9, "var": "ll_2", "val": "(-(A*(1-alpha)*exp(alpha*lk_2+(1-alpha)*ll_2)))"}
+, {"eq": 7, "col": 10, "var": "lk_2", "val": "(-(A*alpha*exp(alpha*lk_2+(1-alpha)*ll_2)))"}
+, {"eq": 7, "col": 13, "var": "y_2", "val": "1"}
+, {"eq": 8, "col": 8, "var": "lc_2", "val": "t_2*exp(lc_2)*get_power_deriv(exp(lc_2),(-1)/gamma_2,1)"}
+, {"eq": 8, "col": 15, "var": "lambda", "val": "(-1)"}
+, {"eq": 9, "col": 9, "var": "ll_2", "val": "t_2*b_2*exp(ll_2)*get_power_deriv(exp(ll_2),1/eta_2,1)-(-(exp(ll_2)*y_2*(1-alpha)*lambda*exp(la_2)))/(exp(ll_2)*exp(ll_2))"}
+, {"eq": 9, "col": 12, "var": "la_2", "val": "(-(y_2*(1-alpha)*lambda*exp(la_2)/exp(ll_2)))"}
+, {"eq": 9, "col": 13, "var": "y_2", "val": "(-((1-alpha)*lambda*exp(la_2)/exp(ll_2)))"}
+, {"eq": 9, "col": 15, "var": "lambda", "val": "(-(y_2*(1-alpha)*exp(la_2)/exp(ll_2)))"}
+, {"eq": 10, "col": 10, "var": "lk_2", "val": "lambda*phi*T252-lambda*beta*((-(exp(lk_2)*y_2*alpha*exp(la_2)))/(exp(lk_2)*exp(lk_2))+T126*T252+T115*phi*(T252-0.5*T252))"}
+, {"eq": 10, "col": 11, "var": "i_2", "val": "lambda*phi*T275-lambda*beta*(T126*T275+T115*phi*(T275-0.5*T275))"}
+, {"eq": 10, "col": 12, "var": "la_2", "val": "(-(lambda*beta*y_2*alpha*exp(la_2)/exp(lk_2)))"}
+, {"eq": 10, "col": 13, "var": "y_2", "val": "(-(lambda*beta*alpha*exp(la_2)/exp(lk_2)))"}
+, {"eq": 10, "col": 15, "var": "lambda", "val": "1+phi*T115-beta*(1+y_2*alpha*exp(la_2)/exp(lk_2)+T115*T126)"}
+, {"eq": 11, "col": 10, "var": "lk_2", "val": "exp(lk_2)-(1-delta)*exp(lk_2)"}
+, {"eq": 11, "col": 11, "var": "i_2", "val": "(-1)"}
+, {"eq": 12, "col": 12, "var": "la_2", "val": "1-rho"}
+, {"eq": 13, "col": 1, "var": "lc_1", "val": "(-exp(lc_1))"}
+, {"eq": 13, "col": 3, "var": "lk_1", "val": "(-(T148+T146*T184*2*T49-exp(lk_1)*delta))"}
+, {"eq": 13, "col": 4, "var": "i_1", "val": "(-(1+T146*2*T49*T207))"}
+, {"eq": 13, "col": 6, "var": "y_1", "val": "1"}
+, {"eq": 13, "col": 7, "var": "tn_1", "val": "1"}
+, {"eq": 14, "col": 7, "var": "tn_1", "val": "(-1)"}
+, {"eq": 14, "col": 8, "var": "lc_2", "val": "(-exp(lc_2))"}
+, {"eq": 14, "col": 10, "var": "lk_2", "val": "(-(T158+T156*T252*2*T115-delta*exp(lk_2)))"}
+, {"eq": 14, "col": 11, "var": "i_2", "val": "(-(1+T156*2*T115*T275))"}
+, {"eq": 14, "col": 13, "var": "y_2", "val": "1"}
+, {"eq": 15, "col": 14, "var": "tn_2", "val": "1"}
+]}, "external_functions_temporary_terms_hessian": [], "temporary_terms_hessian": [], "hessian": {  "nrows": 15, "ncols": 225, "entries": []}, "external_functions_temporary_terms_third_derivative": [], "temporary_terms_third_derivative": [], "third_derivative": {  "nrows": 15, "ncols": 3375, "entries": []}}}

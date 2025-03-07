@@ -1,0 +1,7 @@
+Dynare version: 0.9.18
+2025-03-07T07:42:43.167: Starting @dynare mod-files/irbc2.mod
+["irbc2.mod", "language=julia", "json=compute"]
+Dynare preprocessor version: 6.4.0+0
+2025-03-07T07:42:43.219: End of preprocessing
+2025-03-07T07:42:43.265: Start parse_statements!
+2025-03-07T07:42:48.958: End parser

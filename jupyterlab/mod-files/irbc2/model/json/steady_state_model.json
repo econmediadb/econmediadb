@@ -1,0 +1,16 @@
+{"steady_state_model": [{"lhs": "ll_1", "rhs":"0"}
+,{"lhs": "lk_1", "rhs":"0"}
+,{"lhs": "la_1", "rhs":"0"}
+,{"lhs": "i_1", "rhs":"delta"}
+,{"lhs": "lc_1", "rhs":"log(A)"}
+,{"lhs": "y_1", "rhs":"A"}
+,{"lhs": "tn_1", "rhs":"0"}
+,{"lhs": "ll_2", "rhs":"0"}
+,{"lhs": "lk_2", "rhs":"0"}
+,{"lhs": "la_2", "rhs":"0"}
+,{"lhs": "i_2", "rhs":"delta"}
+,{"lhs": "lc_2", "rhs":"log(A)"}
+,{"lhs": "y_2", "rhs":"A"}
+,{"lhs": "tn_2", "rhs":"0"}
+,{"lhs": "lambda", "rhs":"1"}
+]}
