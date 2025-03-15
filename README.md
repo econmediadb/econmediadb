@@ -13,7 +13,7 @@ On this platform, you'll find my projects and collaborations that reflect my ded
 
 ### 🍁 coding tutorials
 
-[general tutorials](markdown/coding-tutorial.md), [svg tutorial](markdown/svg-tutorial.md), [using Julia](markdown/using-julia.md), [using git](markdown/using-git.md), [using VNC](markdown/using-vncserver.md)
+[general tutorials](markdown/coding-tutorial.md), [svg tutorial](markdown/svg-tutorial.md), [using Julia](markdown/using-julia.md), [using git](markdown/using-git.md), [using VNC](markdown/using-vncserver.md), [using graphviz](jupyterlab/tutorial-graphiz.ipynb)
 
 
 
