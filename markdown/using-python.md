@@ -15,6 +15,10 @@
 9. [File I/O](https://linux.org/threads/python-series-part-9-file-i-o.51469/)
 10. [Error Management](https://linux.org/threads/python-series-part-10-error-management.52961/)
 11. [Classes](https://linux.org/threads/python-series-part-11-classes.53539/)
+12. [Example Game](https://www.linux.org/threads/python-series-part-12-example-game.54116/)
+13. [Starting with Tkinter](https://www.linux.org/threads/python-series-part-13-starting-with-tkinter.55094/)
+14. [Understanding Pack in Tkinter](https://www.linux.org/threads/python-series-part-14-understanding-pack-in-tkinter.55552/)
+15. [Mastering Widget Placement with Tkinter’s place Method](https://www.linux.org/threads/python-series-part-15-mastering-widget-placement-with-tkinter%E2%80%99s-place-method.56041/)
 
 
 ### 1. Installing and Configuring Python 3
