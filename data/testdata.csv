@@ -1,22 +1,62 @@
-STRUCTURE,STRUCTURE_ID,STRUCTURE_NAME,ACTION,FREQ,Frequency,LABELS,Labels,TIME_PERIOD,Time period,OBS_VALUE,Observation value,NOTE_QUARTERS_2,Note quarter 2,NOTE_QUARTERS_1,Note quarter 1,NOTE_LABELS_2,Note Labels 2,NOTE_LABELS_1,Note Labels 1,OBS_STATUS,Observation status,DECIMALS,Decimals
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1995-Q1,,3705.625,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1995-Q2,,3678.696,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1995-Q3,,3637.161,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1995-Q4,,3581.709,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1996-Q1,,3734.736,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1996-Q2,,3751.806,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1996-Q3,,3698.456,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1996-Q4,,3787.897,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1997-Q1,,3706.036,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1997-Q2,,3846.193,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1997-Q3,,3946.705,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1997-Q4,,3968.823,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1998-Q1,,3991.511,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1998-Q2,,4021.056,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1998-Q3,,4078.927,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1998-Q4,,4098.42,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1999-Q1,,4177.347,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1999-Q2,,4216.619,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1999-Q3,,4359.124,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),1999-Q4,,4297.722,,,,,,,,,,,,1,One
-DATAFLOW,LU1:DF_E2501(1.0),Main Aggregates: three approaches(chain-linked volumes; 2015),I,Q,Quarterly,r12,Final consumption expenditure (P3),2000-Q1,,4384.741,,,,,,,,,,,,1,One
+DATAFLOW,LABELS,FREQ,TIME_PERIOD,OBS_VALUE,NOTE_YEARS_2,NOTE_YEARS_1,NOTE_LABELS_2,NOTE_LABELS_1,OBS_STATUS,DECIMALS
+LU1:DF_E2312(1.0),r104,A,1995,3480.437,,,,,,1
+LU1:DF_E2312(1.0),r104,A,1996,3815.547,,,,,,1
+LU1:DF_E2312(1.0),r104,A,1997,3803.708,,,,,,1
+LU1:DF_E2312(1.0),r104,A,1998,3838.63,,,,,,1
+LU1:DF_E2312(1.0),r104,A,1999,3963.293,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2000,4139.014,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2001,4407.718,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2002,4628.859,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2003,4832.334,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2004,4984.214,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2005,4891.882,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2006,5043.378,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2007,5427.867,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2008,5651.281,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2009,5739.497,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2010,5963.728,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2011,6169.9,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2012,6246.775,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2013,6230.025,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2014,6458.644,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2015,6718.301,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2016,6883.119,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2017,7101.521,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2018,7540.32,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2019,7742.394,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2020,6476.431,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2021,8517.419,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2022,9109.105,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2023,9287.675,,,,,,1
+LU1:DF_E2312(1.0),r104,A,2024,,,,,,-,1
+LU1:DF_E2312(1.0),r069,A,1995,1986.7,,,,,,1
+LU1:DF_E2312(1.0),r069,A,1996,2166.1,,,,,,1
+LU1:DF_E2312(1.0),r069,A,1997,2366.4,,,,,,1
+LU1:DF_E2312(1.0),r069,A,1998,2659.5,,,,,,1
+LU1:DF_E2312(1.0),r069,A,1999,2868,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2000,3498,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2001,3993.9,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2002,4159.2,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2003,4108,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2004,3824.8,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2005,3807.2,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2006,3969.5,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2007,4166.3,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2008,4497.8,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2009,4462.3,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2010,4588,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2011,4644.9,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2012,5040.2,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2013,5182.1,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2014,5246.9,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2015,5315.1,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2016,5557.7,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2017,5705.2,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2018,5846.2,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2019,6011.5,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2020,6376.4,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2021,6569.9,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2022,6642.3,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2023,6790.7,,,,,,1
+LU1:DF_E2312(1.0),r069,A,2024,,,,,,-,1
+
