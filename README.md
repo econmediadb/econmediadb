@@ -8,7 +8,8 @@ On this platform, you'll find my projects and collaborations that reflect my ded
 ### 🍀 economics teaching
 
 [2iec economics](markdown/mindmap-2iec-economics.md), [3iec economics](markdown/mindmap-3iec-economics.md), [2iec business](markdown/mindmap-2iec-business.md) <br>
-[economics course design](https://gitlab.com/econmediadb/economics-course)
+[economics course design](https://gitlab.com/econmediadb/economics-course) <br>
+[luxembourg economic and social statistics](jupyterlab/lustat-data.ipynb)
 
 
 ### 🍁 coding tutorials
