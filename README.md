@@ -1,8 +1,6 @@
-As an active teacher at a public secondary school, I've dedicated myself to exploring and enhancing the pedagogy of economics teaching.
+I'm a teacher at a public secondary school, dedicated to making economics education more dynamic and accessible. 
 
-My interests lie at the intersection of economics and technology, particularly in the application of numerical methods to economic models. I'm constantly seeking new ways to integrate coding into my teaching, making economic theories more accessible and engaging for my students.
-
-On this platform, you'll find my projects and collaborations that reflect my dedication to education, economics, and technology.
+My approach involves using technology and numerical methods to bring economic models to life. On this platform, you'll find examples of how I use coding to help students engage with economic theories in a new way. These projects and collaborations are a direct reflection of my work in education, economics, and technology.
 
 
 ### 🍀 economics teaching
