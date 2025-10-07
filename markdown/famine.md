@@ -18,7 +18,7 @@ $$
 \text{FAM3} = \text{FAMDUM}.\text{P}_{A',t-1}  
 $$
 
-Here $\text{P}$ is the natural log of price, $\text{A}$ is Region A, and $i$ is any other region. Agents adjust $ \text{P}_{i,t} $ from $ \text{P}_{i,t-1} $, in response to changes in $ \text{P}_{A} $ (with b measuring the short-run effect).
+Here $`\text{P}`$ is the natural log of price, $\text{A}$ is Region A, and $i$ is any other region. Agents adjust $ \text{P}_{i,t} $ from $ \text{P}_{i,t-1} $, in response to changes in $ \text{P}_{A} $ (with b measuring the short-run effect).
 
 Changes to $ \text{P}_{i} $ are caused by by shocks to $ \text{P}_{A} $ with a long-run relation $ \text{P}_{i} = (e/d) P_A $ (mistake? should this not be -(e/d) ?)
 
