@@ -4,7 +4,7 @@ In order to analyse the adjusment mechanism to price disequilibria, three famili
 
 ## 1. Models for price adjustment during crisis
 
-### 1.1. Error correction model and adjustments to diequilibria ( Ó Gráda, 2015 )
+### 1.1. Error correction model and adjustments to disequilibria ( Ó Gráda, 2015 )
 
 Ó Gráda (2015) uses the error corection model approach to test whether the reaction to emerging disequilibria was slower during a crisis than in normal times. He estimates the following simple representation of the error correction model (ECM) :
 
@@ -77,20 +77,20 @@ The adaptive heuristics and social interaction assumtion, uses simplified heuris
 
 ## 2. Factors used for current famine detection
 
-Current methods of famine detection use the following variables :
-1. socio-economic data : employment demand, population fluxes, school attendance, food prices, terms of trade, food prices
-2. rainfall, precipitation
-3. climate
-4. locust
-5. vegetation data
-6. markets and trade
-7. crop production
-8. livestock
-9. health & sanitation, nutrition
-10. water
-11. population data, census
-12. drought
-13. infrastructure
+Current methods of famine detection use the following variables (Brown, 2008) :
+1. **socio-economic data** : employment demand, population fluxes, school attendance, food prices, terms of trade, food prices (for food security monitoring, decision support system)
+2. **rainfall, precipitation** : verbal descriptions in historical chronicles (i.e. wine chronicles since winegrowing goes as far back as the year 1200) 
+3. **climate** : reliance on agriculture as a primary source of both income and food often leads to vulnerability to seasonal and inter-annual climate variability that affects agricultural yields
+4. **locust** : 
+5. **vegetation data** :
+6. **markets and trade** :
+7. **crop production** :
+8. **livestock** :
+9. **health & sanitation, nutrition** :
+10. **water** :
+11. **population data, census** :
+12. **drought** :
+13. **infrastructure** :
 
 
 
