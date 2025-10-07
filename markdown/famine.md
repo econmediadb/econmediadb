@@ -18,9 +18,9 @@ $$
 \text{FAM3} = \text{FAMDUM}.\text{P}_{A',t-1}  
 $$
 
-Here $`\text{P}`$ is the natural log of price, $\text{A}$ is Region A, and $i$ is any other region. Agents adjust $ \text{P}_{i,t} $ from $ \text{P}_{i,t-1} $, in response to changes in $ \text{P}_{A} $ (with b measuring the short-run effect).
+Here $`\text{P}`$ is the natural log of price, $`\text{A}`$ is Region A, and $i$ is any other region. Agents adjust $` \text{P}_{i,t} `$ from $` \text{P}_{i,t-1} `$, in response to changes in $` \text{P}_{A} `$ (with b measuring the short-run effect).
 
-Changes to $ \text{P}_{i} $ are caused by by shocks to $ \text{P}_{A} $ with a long-run relation $ \text{P}_{i} = (e/d) P_A $ (mistake? should this not be -(e/d) ?)
+Changes to $` \text{P}_{i} `$ are caused by by shocks to $` \text{P}_{A} `$ with a long-run relation $` \text{P}_{i} = (e/d) P_A `$ (mistake? should this not be -(e/d) ?)
 
 Main findings :
 
@@ -46,7 +46,7 @@ Another approach to modify the price adjustment mechanism has been to replace th
 
 For instance within the state-dependent price setting firms adjust prices based on how far their price is from the optimal level, which becomes more costly during a crisis. This introduces non-linearity into the New Keynesian Phillips Curve. In this setup firms respond more quickly to large disequilibrium, which can be relevant during a crisis.
 
-Another approach is to introduce inflation-based adjustment costs. Here we introduce costs that depend not just on the level of price change, but also on the first difference of inflation ( $ \pi_t - \pi_{t-1} $ ​). This generates more inflation persistence and helps the model fit empirical data, especially during periods of high volatility. In other words, costs arise from changes in the inflation rate, which better captures inertial or volatile price-setting in crisis.
+Another approach is to introduce inflation-based adjustment costs. Here we introduce costs that depend not just on the level of price change, but also on the first difference of inflation ( $` \pi_t - \pi_{t-1} `$ ​). This generates more inflation persistence and helps the model fit empirical data, especially during periods of high volatility. In other words, costs arise from changes in the inflation rate, which better captures inertial or volatile price-setting in crisis.
 
 Finally, by introducing Markov-Switching into a DSGE model, one allows key parameters (like expectation rules, monetary policy rule coefficients, or price-stickiness) to switch between regimes (e.g., "normal" vs. "crisis"). For price adjustment, this can model a shift from rational to adaptive expectations (simple learning) during the crisis regime, which slows down price adjustment. The transition probability between regimes is governed by a Markov process, capturing shifts in behavior or policy.
 
@@ -77,20 +77,40 @@ The adaptive heuristics and social interaction assumtion, uses simplified heuris
 
 ## 2. Factors used for current famine detection
 
+**Agricultural food production** is generally estimated by the formula seen below :
+$$
+\text{Production} = \text{Area Cropped} \times \text{Yield}
+$$
+which means that we have to quentify both changes in the area planted as well as crop yield.
+
 Current methods of famine detection use the following variables (Brown, 2008) :
 1. **socio-economic data** : employment demand, population fluxes, school attendance, food prices, terms of trade, food prices (for food security monitoring, decision support system)
-2. **rainfall, precipitation** : verbal descriptions in historical chronicles (i.e. wine chronicles since winegrowing goes as far back as the year 1200) 
+2. **rainfall, precipitation** : 
+   - verbal descriptions in historical chronicles (i.e. wine chronicles since winegrowing goes as far back as the year 1200); 
+   - identify above-average rainfall; 
+   - the standardized precipitation index (SPI) is based on the long-run precipitation record for a thirty year period. The long-term record isfitted to a probability distribution, which is then transformed into a normal distributionso that the mean SPI for the location and desired period is zero  
 3. **climate** : reliance on agriculture as a primary source of both income and food often leads to vulnerability to seasonal and inter-annual climate variability that affects agricultural yields
+   - [HISTALP](https://www.zamg.ac.at/histalp/) : Historical Instrumental Climatological Surface Time Series Of The Greater Alpine Region
+   - [Euro-Climhist](https://www.euroclimhist.unibe.ch/index_eng.html) : Euro-Climhist makes weather and climate history data accessible with a user-friendly search, daily weather data as well as extreme events and long-term climate trends.
+   - [ACRE](https://www.met-acre.org/) : Atmospheric Circulation Reconstructions over the Earth
 4. **locust** : 
 5. **vegetation data** :
-6. **markets and trade** :
+6. **markets and trade** : 
+   - farmers typically sell a portion of their crop in the market after harvest, save a portion for consumption, and purchase food from market as their own supplies diminish later in the year; this interaction tends to amplify the response of market prices to the production of low-cost, locally grown grains such as millet, because higher prices will yield larger rewards for those who have excess grain to sell, and cost more for those who have food deficits for large portions of the year
+   - higher prices can cause food insecurity among the most vulnerable in a population even in times with adequate or even abundant food supplies (Sen, 1981) 
+   - countries that rely on imported food from outside the region are vulnerable to regional scarcity, global pricing and exchange rate volatility
 7. **crop production** :
-8. **livestock** :
+8. **livestock** : 
+   - sale of animals in the market is related far more to scarcity of fodder than to actual numbers on the ground
 9. **health & sanitation, nutrition** :
 10. **water** :
 11. **population data, census** :
 12. **drought** :
 13. **infrastructure** :
+14. **conflict/security** : populations in conflict zones are particularly vulnerable to food security due to
+   - the restriction in movements of people and goods, 
+   - increased likelihood of raiding and theft of basic food and livestock, and 
+   - the inability of farming families to sow, tend and harvest their fields over the course of a season
 
 
 
@@ -101,6 +121,7 @@ Current methods of famine detection use the following variables (Brown, 2008) :
 - Brown, Molly E. Famine early warning systems and remote sensing data. Berlin, Heidelberg: Springer Berlin Heidelberg, 2008.
 - Ó Gráda, Cormac. Eating people is wrong, and other essays on famine, its past, and its future. Princeton University Press, 2015.
 - ó Gráda, Cormac. "Famine: a short history." (2021): 1-344.
+- Sen, Amartya. "An essay on entitlement and deprivation." Poverty and Famines (1981).
 
 ### Economic Models
 
