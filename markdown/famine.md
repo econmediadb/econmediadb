@@ -69,13 +69,28 @@ In this framework, a crisis is modeled as a shock that reduces market maker capa
 
 Price dynamics are influenced by the difference in the timing and urgency of trades between different agent types. During a crisis, liquidity demanders (forced sellers) exhibit greater immediacy and push prices down more aggressively than the slow-to-react liquidity suppliers or constrained market makers. 
 
-In _macroeconomic AMBs_ there are several mechanims that are used.
+In _macroeconomic ABMs_ there are several mechanims that are used.
 
 The asymmetric price adjustment mechanism captures the observation that during the 2008 crisis, financially constrained firms often raised prices while healthy firms cut them. Firms with weak balance sheets (limited internal liquidity, high leverage) are modeled to find it optimal to raise prices to boost current cash flows, even at the cost of losing future market share. This is an attempt to avoid costly external financing or maintain liquidity. Conversely, financially stronger firms may cut prices to gain market share. This heterogeneity in response to a negative demand/financial shock results in an overall attenuation of deflationary pressure compared to standard models, where prices would simply fall.
 
 The adaptive heuristics and social interaction assumtion, uses simplified heuristics (rules of thumb) instead of full optimization, and they learn or imitate the pricing strategies of other successful agents. During a crisis, this can introduce price stickiness or volatility. Firms are often modeled to choose one of a few discrete pricing strategies (e.g., lower, maintain, or raise price) based on their utility function, which includes both private (e.g., profit margin) and social features (e.g., observing neighbors' price changes). The fear of making a mistake or menu costs can lead to stickiness, where firms only adjust prices when the deviation from their target price (price misalignment) is sufficiently large, or when the economic outlook is extremely uncertain (crisis). 
 
-## Books
+## 2. Factors used for current famine detection
+
+Current methods of famine detection use the following variables :
+1. socio-economic data : employment demand, population fluxes, school attendance, food prices, terms of trade, food prices
+2. rainfall, precipitation
+3. climate
+4. locust
+5. vegetation data
+6. markets and trade
+7. crop production
+8. livestock
+9. health & sanitation, nutrition
+10. water
+11. population data, census
+12. drought
+13. infrastructure
 
 
 
