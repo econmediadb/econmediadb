@@ -177,7 +177,14 @@ Rehman Sobhan (in Sen and Drèze, 1990) deals with the public provision of entit
 
 Kirit Parikh (in Sen and Drèze, 1990) shows using an 'applied general equilibrium' model thatthe poor are forced into the role of being _the adjustors_ : fluctuations of supply have to be absorbed by the poor through adjustments of their consumption. Another result in this paper is that protection of agricultural producers in the rich countries on the whole reduces hunger in the poorer countries; protection of the labour market in the richer countries through immigration control has the largest adverse effect on world hunger.
 
-Ram's contribution (in Sen and Drèze, 1990) on the role of the news media has become increasingly relevant in the current world. By providing information on likely famine threats and pressuring the government to act without delay, an active newspaper system
+Ram's contribution (in Sen and Drèze, 1990) on the role of the news media has become increasingly relevant in the current world. By providing information on likely famine threats and pressuring the government to act without delay, an active newspaper system can lead to early and effective intervention by the government. One of the roles of the press is to make it 'too expensive' in political terms for the government to be callous and lethargic, and this can be decisive since famines are extremely easy to prevent by early intervention. He underlines that no country with a free press and scope for oppositional politics has ever experenced a major famine (in 2025 and in the context of the genocide in Gaza, this statement would suggest that Israel has neither a free press nor a functioning democracy).
+
+Dasgupta and Ray (in Sen and Drèze, 1990) investigate the implications of undernourishment for labour markets, including 
+- the effects of inadequate nutrition on low work capacity (?would this show in more aggregate output data?)
+- unemployment, and
+- continuing poverty
+They use the concept of 'poverty trap' to explain how undernourished people can find it hard to get employment because they are weak, and remain weak because they are unemployed.
+
 
 
 
