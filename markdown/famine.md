@@ -1,8 +1,17 @@
 # Literature on Famine
 
-In order to analyse the adjusment mechanism to price disequilibria, three families of dynamic models have been used in the literature : error-correction models, dynamic stochastic general equilibrium models, and agent-based models.
+Issue that deal with famine :
+- characteristics and causal antecedents of famines and endemic deprivation
+- interconnections between economic and politicial factors
+- role of social relations and family
+- female deprivation
+- link between food consumption and other aspects of living standards
+- medical aspect of undernourishment
+- political background of public policy
 
 ## 1. Models for price adjustment during crisis
+
+In order to analyse the adjusment mechanism to price disequilibria, three families of dynamic models have been used in the literature : error-correction models, dynamic stochastic general equilibrium models, and agent-based models.
 
 ### 1.1. Error correction model and adjustments to disequilibria ( Ó Gráda, 2015 )
 
@@ -157,6 +166,21 @@ Contingencies considered in the planning process :
 - peace
 - prepositioning
 
+
+## 4. Literature review
+
+Amartya Sen (in Sen and Drèze, 1990) points to the fact that the overall production or availability of food may be a bad predictor of what the vulnerable groups in the population can actually acquire. A person can be reduced to starvation if some economic change makes it no longer possible for him or her to acquire any commodity bundle with enough food (i.e. caused by alienation of land, loss of labour power due to ill health, loss of employment, fall in wages, rise in food prices, drop in the price of goods or services sold by the person, reduction of social security provisions, ...). 
+
+Ravi Kanbur (in Sen and Drèze, 1990) extends Sen's approach from households and individuals to states and regions. He focuses on variables that influence a country's ability to command enough food (i.e. international prices of non-food exports, possibility of substitution between commodities in production and consumption, ...).
+
+Rehman Sobhan (in Sen and Drèze, 1990) deals with the public provision of entitlements such as public distribution of food and health care, the generation of public employment, the provision of relief in distress situatiuons, the offer of subsidies on particular productive inputs, consumption of goods, ...
+
+Kirit Parikh (in Sen and Drèze, 1990) shows using an 'applied general equilibrium' model thatthe poor are forced into the role of being _the adjustors_ : fluctuations of supply have to be absorbed by the poor through adjustments of their consumption. Another result in this paper is that protection of agricultural producers in the rich countries on the whole reduces hunger in the poorer countries; protection of the labour market in the richer countries through immigration control has the largest adverse effect on world hunger.
+
+Ram's contribution (in Sen and Drèze, 1990) on the role of the news media has become increasingly relevant in the current world. By providing information on likely famine threats and pressuring the government to act without delay, an active newspaper system
+
+
+
 ## Sources
 
 ### Famine
@@ -164,6 +188,8 @@ Contingencies considered in the planning process :
 - Brown, Molly E. Famine early warning systems and remote sensing data. Berlin, Heidelberg: Springer Berlin Heidelberg, 2008.
 - Boudreau, Tanya. The food economy approach: a framework for understanding rural livelihoods. London: Overseas Development Institute, 1998.
 - Drèze, Jean, and Amartya Sen. Hunger and public action. Clarendon Press, 1990.
+- Drèze, Jean, and Amartya Sen, eds. "The political economy of hunger. Volume 1: entitlement and well-being." (1990): xx+-492pp.
+- Drèze, Jean, Amartya Sen, and Athar Hussain, eds. The Political Economy of Hunger: Selected Essays, WIDER Studies in Development Economics Oxford: Oxford University Press, 1995.
 - Ó Gráda, Cormac. Eating people is wrong, and other essays on famine, its past, and its future. Princeton University Press, 2015.
 - ó Gráda, Cormac. "Famine: a short history." (2021): 1-344.
 - Sen, Amartya. "An essay on entitlement and deprivation." Poverty and Famines (1981).
