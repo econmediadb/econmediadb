@@ -93,7 +93,7 @@ Current methods of famine detection use the following variables (Brown, 2008) :
    - [HISTALP](https://www.zamg.ac.at/histalp/) : Historical Instrumental Climatological Surface Time Series Of The Greater Alpine Region
    - [Euro-Climhist](https://www.euroclimhist.unibe.ch/index_eng.html) : Euro-Climhist makes weather and climate history data accessible with a user-friendly search, daily weather data as well as extreme events and long-term climate trends.
    - [ACRE](https://www.met-acre.org/) : Atmospheric Circulation Reconstructions over the Earth
-4. **locust** : 
+4. **pests** : birds, insects, .... may impact agricultural production 
 5. **vegetation data** :
 6. **markets and trade** : 
    - farmers typically sell a portion of their crop in the market after harvest, save a portion for consumption, and purchase food from market as their own supplies diminish later in the year; this interaction tends to amplify the response of market prices to the production of low-cost, locally grown grains such as millet, because higher prices will yield larger rewards for those who have excess grain to sell, and cost more for those who have food deficits for large portions of the year
@@ -102,8 +102,19 @@ Current methods of famine detection use the following variables (Brown, 2008) :
 7. **crop production** :
 8. **livestock** : 
    - sale of animals in the market is related far more to scarcity of fodder than to actual numbers on the ground
-9. **health & sanitation, nutrition** :
-10. **water** :
+9. **health & sanitation, nutrition** : 
+   - during times of stress, contaminated drinking water, poor environmental hygiene and poor health infrastructure lead to poor assimilation of the food consumed; 
+   - a person cannot be said to be food secure without environmental hygiene, primary health care and clean drinking water security; 
+   - increasing poverty tends to be associated with lower dietary diversity
+   - lack of quantity (energy) and quality (micronutrients) in the diet, which often leads to a lack of appetite and concurrent weight loss
+   - monitoring of food consumption patterns, particularly for mothers and children, is essential for understanding the underlying food security issues in a region (check historical public records)
+   - eco-climatically coupled diseases (i.e. cholera, ...) that affect directly both the ability of an affected person to absorb available nutrients
+   - measures to control the spread of cholera, such as a ban on the sale of meat, fish and vegetables in local markets to prevent the spread of the disease, can negatively affect the purchasing power of household
+   - water borne diseases in areas experiencing flooding conditions
+10. **water & sanitation** : 
+   - shallow, hand dug wells that can dry up during times of severe drought
+   - lack of clean portable water and poor sanitation can lead to frequent illness and large outbreaks of water-borne diseases such a Cholera
+   - improvements in safe water supply, and in particular hygiene (including use of soap for hand-washing) could reduce the incidence of diarrhea and the number of deaths due to diarrhea by more than half
 11. **population data, census** :
 12. **drought** :
 13. **infrastructure** :
@@ -114,14 +125,49 @@ Current methods of famine detection use the following variables (Brown, 2008) :
 
 
 
+## 3. Decisions and decision-makers
+
+- community
+- civil society
+- government
+- private sector
+- international organisations
+- donor
+
+An important part of contingency planning process is scenario development. Scenarios are used in the planning process to identify possible response requirements for hazards of varying severity as an integrated part of food security early warning. The planning process itself can be an invaluable tool for building consensus between government, donors, and humanitarian organizations and for developing the relationships and understanding needed for effective emergency response.
+Contingencies considered in the planning process :
+- hurricanes/cyclones
+- floods
+- earthquakes
+- droughts
+- famine
+- internal conflict
+- war
+- refugees
+- economic collapse
+- logistical bottlenecks
+- internal displaced persons
+- border closure
+- epidemics
+- volcanic eruptions
+- tsunami
+- landslides
+- crop failure
+- food aid pipeline breaks
+- peace
+- prepositioning
+
 ## Sources
 
 ### Famine
 
 - Brown, Molly E. Famine early warning systems and remote sensing data. Berlin, Heidelberg: Springer Berlin Heidelberg, 2008.
+- Boudreau, Tanya. The food economy approach: a framework for understanding rural livelihoods. London: Overseas Development Institute, 1998.
+- Drèze, Jean, and Amartya Sen. Hunger and public action. Clarendon Press, 1990.
 - Ó Gráda, Cormac. Eating people is wrong, and other essays on famine, its past, and its future. Princeton University Press, 2015.
 - ó Gráda, Cormac. "Famine: a short history." (2021): 1-344.
 - Sen, Amartya. "An essay on entitlement and deprivation." Poverty and Famines (1981).
+- Verdin, James, et al. "Climate science and famine early warning." Philosophical Transactions of the Royal Society B: Biological Sciences 360.1463 (2005): 2155-2168.
 
 ### Economic Models
 
