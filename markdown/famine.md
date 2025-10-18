@@ -93,7 +93,7 @@ $$
 which means that we have to quentify both changes in the area planted as well as crop yield.
 
 Current methods of famine detection use the following variables (Brown, 2008) :
-1. **socio-economic data** : employment demand, population fluxes, school attendance, food prices, terms of trade, food prices (for food security monitoring, decision support system)
+1. **socio-economic data** : employment demand, movement of labour, number of women at work (caused by temporary migration by males), population fluxes, school attendance, food prices, terms of trade, food prices (for food security monitoring, decision support system), access to credit, interest rates charged by the lenders (i.e. commercial banks, ...), pawnbrokers, 
 2. **rainfall, precipitation** : 
    - verbal descriptions in historical chronicles (i.e. wine chronicles since winegrowing goes as far back as the year 1200); 
    - identify above-average rainfall; 
@@ -124,7 +124,7 @@ Current methods of famine detection use the following variables (Brown, 2008) :
    - shallow, hand dug wells that can dry up during times of severe drought
    - lack of clean portable water and poor sanitation can lead to frequent illness and large outbreaks of water-borne diseases such a Cholera
    - improvements in safe water supply, and in particular hygiene (including use of soap for hand-washing) could reduce the incidence of diarrhea and the number of deaths due to diarrhea by more than half
-11. **population data, census** :
+11. **population data, census** : migration, migration from country-side to city (since relief work is usually better organized in bigger cities)
 12. **drought** :
 13. **infrastructure** :
 14. **conflict/security** : populations in conflict zones are particularly vulnerable to food security due to
