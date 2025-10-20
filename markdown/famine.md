@@ -186,7 +186,13 @@ Dasgupta and Ray (in Sen and Drèze, 1990) investigate the implications of under
 They use the concept of 'poverty trap' to explain how undernourished people can find it hard to get employment because they are weak, and remain weak because they are unemployed.
 
 
+## 5. Further references
 
+### 5.1. Technical references
+
+Pole, West and Harrison (1994) provide a good introduction into Bayesian Forecasting and Time Series models. It contains simple examples and step-by-step guidance in data analysis.
+
+Gelman et al (2013) and Congdon (2007) provide many applications in various scientific fields together with a model and data.
 
 ## Sources
 
@@ -209,3 +215,8 @@ They use the concept of 'poverty trap' to explain how undernourished people can 
 - Gust, Christopher, et al. "The empirical implications of the interest-rate lower bound." American Economic Review 107.7 (2017): 1971-2006.
 - Kaplan, Greg, Benjamin Moll, and Giovanni L. Violante. "Monetary policy according to HANK." American Economic Review 108.3 (2018): 697-743.
 
+### Econometric Analysis
+
+- Congdon, Peter. Bayesian statistical modelling. John Wiley & Sons, 2007.
+- Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. Bayesian data analysis 2013 Boca Raton Chapman and Hall.
+- Pole, Andy, Mike West, and Jeff Harrison. "Analysis of the DLM." Applied Bayesian Forecasting and Time Series Analysis. Springer US, 1994. 29-89.
