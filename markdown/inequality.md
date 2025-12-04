@@ -12,6 +12,15 @@ Link to _financial decision making_ and _surendettement_ and _gamification of tr
 - average tax structure : value-added tax, other taxes on goods and services, social-security contributions, corporate income tax, personal income tax, property, others ( see The Economist 455, pages 41-42; 2025, Jun 07 )  
 
 
+- [Income inequality index (Gini coefficient)](https://ourworldindata.org/grapher/economic-inequality-gini-index?country=CHL~BRA~ZAF~USA)
+- [Gender inequality index (GII)](https://ourworldindata.org/grapher/gender-inequality-index-from-the-human-development-report?country=JOR~IDN~DEU~SWE~SGP~ZAF~USA~GBR~JPN~NOR)
+- [Inequality in education (Atkinson index)](https://ourworldindata.org/grapher/inequality-in-education)
+- [Total wealth per capita, by income groups, 1995 to 2014](https://ourworldindata.org/grapher/total-wealth-per-capita-by-income-groups-in-2014-us-dollars)
+- [How is life at different levels of income?](https://ourworldindata.org/the-history-of-global-economic-inequality)
+- [Global income distribution](https://ourworldindata.org/the-history-of-global-economic-inequality)
+
+- [World Inequality Database : Luxembourg](https://wid.world/country/luxembourg/)
+
 ## Factors that affect inequality
 
 - economic growth
@@ -71,6 +80,12 @@ Rich people also save more of their incomes than poor ones.
 _the annuity puzzle_ : Purchasing annuities allows the retired to efficiently pool the risk that they live longer than expected, guaranteeing an income that is higher than the amount they could spend if relying on individual savings.
 
 see The Economist, 457, 70
+
+
+### Returns on capital are rising faster than economic growth
+
+Thomas Piketty : rising inequality is straining the health of liberal democracy
+
 
 ## Sources 
 
