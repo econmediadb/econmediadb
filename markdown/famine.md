@@ -220,3 +220,11 @@ Gelman et al (2013) and Congdon (2007) provide many applications in various scie
 - Congdon, Peter. Bayesian statistical modelling. John Wiley & Sons, 2007.
 - Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. Bayesian data analysis 2013 Boca Raton Chapman and Hall.
 - Pole, Andy, Mike West, and Jeff Harrison. "Analysis of the DLM." Applied Bayesian Forecasting and Time Series Analysis. Springer US, 1994. 29-89.
+
+### Cliometrics
+
+- Bastidon, Cécile, and Antoine Parent. “Cliometrics of World Stock Markets Evolving Networks.” Annals of operations research 332.1–3 (2024): 23–53. Web.
+- Greasley, David, Les Oxley, and ProQuest. Economics and History  : Surveys in Cliometrics /. Chichester, West Sussex, UK ; Wiley-Blackwell, 2011. Web.
+- Parker, Randall E, and Robert Whaples. Routledge Handbook of Modern Economic History /. New York: Routledge, 2012. Web.
+
+
