@@ -22,6 +22,14 @@ My approach involves using technology and numerical methods to bring economic mo
 [dynamic programming](jupyterlab/dynamic-programming.ipynb), [dynamic programming with search theory](jupyterlab/deterministic-rbc-with-search.ipynb), [finite state markov chain approximation of AR(1) process](jupyterlab/finite-state-markov-chain-approximation-of-ar1-process.ipynb), [Dynare for Julia](jupyterlab/dynare-tests.ipynb), [deterministic RBC model with search](jupyterlab/deterministic-rbc-with-search.ipynb), [principal component analysis](jupyterlab/principal-component-analysis-python.ipynb), [nonlinear fitting](jupyterlab/non-linear-fitting-python.ipynb), [constructing models](jupyterlab/constructing-models-python.ipynb), [spline interpolation](jupyterlab/spline-interpolation-python.ipynb), [least squares method](jupyterlab/least-squares-python.ipynb), [hermite interpolation](jupyterlab/hermite-interpolation-python.ipynb), [steepest descent](jupyterlab/steepest-descent-python.ipynb), [newton-raphson method](jupyterlab/newton-raphson-python.ipynb), [linearisation](jupyterlab/linearisation-python.ipynb), [polynomials](jupyterlab/polynomial-python.ipynb), [ordinary differential equations (ODE)](jupyterlab/ordinary-differential-equations.ipynb), [taylor series approximation](jupyterlab/taylor-series-python.ipynb), [sparse grid (irbc)](jupyterlab/sparse-grid-irbc.ipynb), [sparse grid (examples from tasmanian)](jupyterlab/tasmanian-sparse-grid.ipynb), [IRBC model](jupyterlab/irbc-model.ipynb), [search model (benchmark)](jupyterlab/search-model-basic-version.ipynb), [space shuttle Challenger disaster and the logistic regression](jupyterlab/logistic-regression-basic.ipynb)
 
 
+### 💻 open-source OCRs
+
+| name  | link  |
+|---|---|
+|OpenCV + DNN modules | https://docs.opencv.org/4.x/d2/d58/tutorial_table_of_content_dnn.html  |
+|Tesseract OCR | https://github.com/tesseract-ocr/tesseract |
+|EasyOCR | https://github.com/JaidedAI/EasyOCR |
+
 ### 🪴 pedagogy
 
 [teaching slides](https://econmediadb.github.io/slides/index.html), [blackboard images](https://econmediadb.github.io/slides/html/econ-blackboard-2024-25.html#/)
