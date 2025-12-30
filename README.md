@@ -30,6 +30,8 @@ My approach involves using technology and numerical methods to bring economic mo
 |Tesseract OCR | https://github.com/tesseract-ocr/tesseract |
 |EasyOCR | https://github.com/JaidedAI/EasyOCR |
 
+You can run tesseract in a [Docker container](markdown/tesseract.md) 
+
 ### 🪴 pedagogy
 
 [teaching slides](https://econmediadb.github.io/slides/index.html), [blackboard images](https://econmediadb.github.io/slides/html/econ-blackboard-2024-25.html#/)
